@@ -1,0 +1,18 @@
+.github-repos{
+    list-style: none;
+}
+.github-repos li{
+    margin-bottom: 0;
+    padding: 10px 0;
+    border-bottom: #ccc solid 1px;
+}
+
+.github-repos__title{
+    font-size: bold;
+    padding-bottom: 5px;
+    text-transform: capitalize;
+}
+
+.github-repos__description{
+    padding-bottom: 10px;
+}
